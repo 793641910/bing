@@ -210,6 +210,28 @@
       ] 
     },
     {
+      "key": "奈飞中文",
+      "name": "🦅奈飞中文",
+      "type": 3,
+      "api": "csp_XYQHiker",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "./奈飞中文.json",
+      "jar": "./XYQ.jar"
+    },
+    {
+      "key": "鸭奈飞影视",
+      "name": "🦆鸭奈飞影视",
+      "type": 3,
+      "api": "csp_XYQHiker",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "./鸭奈飞影视.json",
+      "jar": "./XYQ.jar"
+    },
+    {
       "key": "韩剧影院",
       "name": "韩剧💖TV",
       "type": 3,
