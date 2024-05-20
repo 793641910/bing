@@ -1,5 +1,5 @@
 {
-  "spider": "./dongchen.jar",
+  "spider": "./binge.jar",
   "wallpaper": "http://www.kf666888.cn/api/tvbox/img",
   "sites": [
     {
@@ -56,6 +56,16 @@
         "danmu": true
       },
       "timeout": 25
+    },
+     {
+      "key": "csp_XYQHikerAL_多多",
+      "name": "多多🥳臻享4K",
+      "type": 3,
+      "api": "csp_XYQHikerAL",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "./duoduo.json"
     },
     {
       "key": "多多网盘",
