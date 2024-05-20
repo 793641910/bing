@@ -145,7 +145,7 @@
       "changeable": 1,
       "filterable": 1,
       "timeout": 30,
-      "ext": "./PG推送.json$$$https://www.wogg.net/$$$null$$$1$$$https://gitee.com/dongchenys/liu/raw/master/json/wogg.json"
+      "ext": "./PG推送.json$$$null$$$1$$$./woggzx.json"
     },
     {
       "key": "团长资源",
