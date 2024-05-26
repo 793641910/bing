@@ -6,12 +6,12 @@
       "key": "豆瓣",
       "name": "🌹兵哥4K专线💘整理于5月23日💋加QQ防失联🍎获取最新接口🇨🇳",
       "type": 3,
-      "api": "./min.js",
+      "api": "./js/min.js",
       "jar": "./worong.txt",
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 0,
-      "ext": "./douban.js"
+      "ext": "./js/douban.js"
     },
     {
       "key": "配置中心ok",
@@ -38,7 +38,7 @@
         "type": "rect",
         "ratio": 1
       },
-      "ext": "./PG推送.json"
+      "ext": "./json/PG推送.json"
     },
     {
       "key": "玩偶弹幕版",
@@ -65,7 +65,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "./duoduo.json"
+      "ext": "./json/duoduo.json"
     },
     {
       "key": "多多网盘",
@@ -104,7 +104,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "./alisusu.json"
+            "ext": "./json/alisusu.json"
         },
     {
             "key": "csp_XYQHikerAL_土豆",
@@ -114,7 +114,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "./tudou.json"
+            "ext": "./json/tudou.json"
         },
     {
             "key": "Ppxzy",
@@ -126,7 +126,7 @@
             "changeable": 1,
             "filterable": 1,
             "timeout": 60,
-            "ext": "./PG推送.json$$$https://ppxzy.ink$$$null$$$1"
+            "ext": "./json/PG推送.json$$$https://ppxzy.ink$$$null$$$1"
         },        
     {
       "key": "土豆弹幕版",
@@ -166,7 +166,7 @@
       "changeable": 1,
       "filterable": 1,
       "timeout": 30,
-      "ext": "./PG推送.json$$$null$$$1"
+      "ext": "./json/PG推送.json$$$null$$$1"
     },
     {
       "key": "csp_XYQHikerAL_玩偶哥哥",
@@ -176,7 +176,7 @@
       "quickSearch": 1,
       "searchable": 1,
       "filterable": 1,
-      "ext": "./woggzx.json"
+      "ext": "./json/woggzx.json"
     },
     {
       "key": "团长资源",
@@ -188,17 +188,17 @@
       "changeable": 1,
       "filterable": 1,
       "timeout": 60,
-      "ext": "./PG推送.json$$$null$$$1"
+      "ext": "./json/PG推送.json$$$null$$$1"
     },
     {
       "key": "厂长蓝光",
       "name": "厂长🏭蓝光",
       "type": 3,
-      "api": "./min.js",
+      "api": "./js/min.js",
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 1,
-      "ext": "./cangzan.js"
+      "ext": "./js/cangzan.js"
     },
     {
       "key": "苹果",
@@ -258,7 +258,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "./奈飞中文.json",
+      "ext": "./json/奈飞中文.json",
       "jar": "./XYQ.jar"
     },
     {
@@ -269,7 +269,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "./鸭奈飞影视.json",
+      "ext": "./json/鸭奈飞影视.json",
       "jar": "./XYQ.jar"
     },
     {
@@ -280,7 +280,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "./hanju.json"
+      "ext": "./json/hanju.json"
     },
     {
       "key": "csp_SNzy",
@@ -511,18 +511,18 @@
       "key": "荐片",
       "name": "荐片🎬蓝光",
       "type": 3,
-      "api": "./min.js",
+      "api": "./js/min.js",
       "searchable": 1,
       "changeable": 1,
-      "ext": "./jianpian.js"
+      "ext": "./js/jianpian.js"
     },
     {
       "key": "nangua",
       "name": "南瓜🎃影视",
       "type": 3,
       "playerType": "2",
-      "api": "./drpy2.min.js",
-      "ext": "./nangua.js"
+      "api": "./js/drpy2.min.js",
+      "ext": "./js/nangua.js"
     },
     {
       "key": "AList",
@@ -532,7 +532,7 @@
       "jar": "./smdy.jar",
       "searchable": 1,
       "changeable": 0,
-      "ext": "./Alist.json"
+      "ext": "./json/Alist.json"
     },
     {
       "key": "量子资源",
@@ -580,7 +580,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "./xinshijue.json"
+      "ext": "./json/xinshijue.json"
     },
     {
       "key": "地瓜",
@@ -606,8 +606,8 @@
       "key": "种子短剧",
       "name": "种子💮短剧",
       "type": 3,
-      "api": "./drpy3.min.js",
-      "ext": "./zhongzi.js"
+      "api": "./js/drpy3.min.js",
+      "ext": "./js/zhongzi.js"
     },
     {
       "key": "短剧",
@@ -637,7 +637,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "./vid.json"
+      "ext": "./json/vid.json"
     },
     {
       "key": "秒播影院",
@@ -647,7 +647,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "./miaobo.json"
+      "ext": "./json/miaobo.json"
     },
     {
       "key": "毛驴",
@@ -677,11 +677,11 @@
       "key": "短视频",
       "name": "网红📱美女",
       "type": 3,
-      "api": "./drpy2.min.js",
+      "api": "./js/drpy2.min.js",
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 0,
-      "ext": "./duanshiping.js"
+      "ext": "./js/duanshiping.js"
     },
     {
       "key": "演唱会",
@@ -690,13 +690,13 @@
       "api": "csp_Bili",
       "searchable": 0,
       "quickSearch": 0,
-      "ext": "./yinyue.json"
+      "ext": "./json/yinyue.json"
     },
     {
       "key": "JustLive",
       "name": "游戏👑直播",
       "type": 3,
-      "api": "./.min.js",
+      "api": "./js/min.js",
       "searchable": 0,
       "changeable": 0,
       "ext": "https://pan.shangui.cc/f/eq2LUQ/justlive.js"
@@ -724,17 +724,17 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "./9995yunpan.json"
+      "ext": "./json/9995yunpan.json"
     },
     {
       "key": "利播蓝光",
       "name": "利播🌕韩剧",
       "type": 3,
-      "api": "./drpy.min.js",
+      "api": "./js/drpy.min.js",
       "searchable": 0,
       "quickSearch": 1,
       "changeable": 1,
-      "ext": "./libvio.js"
+      "ext": "./js/libvio.js"
     },
     {
       "key": "csp_Bdys",
@@ -764,7 +764,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "./zizi.json"
+      "ext": "./json/zizi.json"
     },
     {
       "key": "nkvod",
@@ -774,7 +774,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "./nkvod.json"
+      "ext": "./json/nkvod.json"
     },
     {
       "key": "可可影视",
@@ -783,7 +783,7 @@
       "playerType": 2,
       "searchable": 1,
       "api": "csp_XBPQ",
-      "ext": "./kkys.json"
+      "ext": "./json/kkys.json"
     },
     {
       "key": "Free影视",
@@ -793,7 +793,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "./freevip.json"
+      "ext": "./json/freevip.json"
     },
     {
       "key": "素白白影视",
@@ -802,7 +802,7 @@
       "api": "csp_XBPQ",
       "searchable": 1,
       "changeable": 1,
-      "ext": "./subaibai.json"
+      "ext": "./json/subaibai.json"
     },
     {
       "key": "原创",
@@ -832,27 +832,27 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "api": "./drpy6.min.js",
-      "ext": "./dashixiong.js",
+      "api": "./js/drpy6.min.js",
+      "ext": "./js/dashixiong.js",
       "timeout": 15
     },
     {
       "key": "低端影视",
       "name": "低端⛄影视",
       "type": 3,
-      "api": "./drpy2.min.js",
+      "api": "./js/drpy2.min.js",
       "searchable": 1,
       "changeable": 1,
-      "ext": "./diduan.js"
+      "ext": "./js/diduan.js"
     },
     {
       "key": "纽约影院",
       "name": "纽约🗽蓝光",
       "type": 3,
-      "api": "./drpy2.min.js",
+      "api": "./js/drpy2.min.js",
       "searchable": 1,
       "changeable": 1,
-      "ext": "./nycvod.js"
+      "ext": "./js/nycvod.js"
     },
     {
       "key": "Panta",
@@ -864,37 +864,37 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "./PG推送.json$$$https://www.91panta.cn/$$$null$$$1",
+      "ext": "./json/PG推送.json$$$https://www.91panta.cn/$$$null$$$1",
       "timeout": 60
     },
     {
       "key": "短剧tv",
       "name": "兵哥📱短剧",
       "type": 3,
-      "api": "./drpy2.min.js",
+      "api": "./js/drpy2.min.js",
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 0,
-      "ext": "./duanjutv.js"
+      "ext": "./js/duanjutv.js"
     },
     {
       "key": "Auete影视",
       "name": "奥特🏝影视",
       "type": 3,
-      "api": "./drpy2.min.js",
+      "api": "./js/drpy2.min.js",
       "searchable": 1,
       "changeable": 1,
-      "ext": "./Auete.js"
+      "ext": "./js/Auete.js"
     },
     {
       "key": "魔力高清",
       "name": "魔力💥高清",
       "type": 3,
-      "api": "./drpy2.min.js",
+      "api": "./js/drpy2.min.js",
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 0,
-      "ext": "./HDmoli.js"
+      "ext": "./js/HDmoli.js"
     },
     {
       "key": "Lib",
@@ -926,7 +926,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "./tvbyun.json"
+      "ext": "./json/tvbyun.json"
     },
     {
       "key": "两个BT",
@@ -935,7 +935,7 @@
       "playerType": 2,
       "searchable": 1,
       "api": "csp_XBPQ",
-      "ext": "./bt.json"
+      "ext": "./json/bt.json"
     },
     {
       "key": "csp_duoju",
@@ -945,7 +945,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "./xinchen.json"
+      "ext": "./json/xinchen.json"
     },
     {
       "key": "厂长",
@@ -967,7 +967,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "./suying.json"
+      "ext": "./json/suying.json"
     },
     {
       "key": "COKEMV影院",
@@ -977,7 +977,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "./cokemv.json"
+      "ext": "./json/cokemv.json"
     },
     {
       "key": "胖虎影视",
@@ -987,7 +987,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "./panghuys.json"
+      "ext": "./json/panghuys.json"
     },
     {
       "key": "时常",
@@ -1019,7 +1019,7 @@
       "key": "310js",
       "name": "体育🏀直播",
       "type": 3,
-      "api": "./drpy2.min.js",
+      "api": "./js/drpy2.min.js",
       "changeable": 0,
       "gridview": 3,
       "style": {
@@ -1031,12 +1031,12 @@
       "key": "NT动漫",
       "name": "NT🎀动漫",
       "type": 3,
-      "api": "./drpy2.min.js",
+      "api": "./js/drpy2.min.js",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
       "changeable": 1,
-      "ext": "./ntdm.js"
+      "ext": "./js/ntdm.js"
     },
     {
       "key": "csp_xifan",
@@ -1052,7 +1052,7 @@
       "key": "meowtv_a8yy",
       "name": "A8Y🎻音乐",
       "type": 3,
-      "api": "./drpy2.min.js",
+      "api": "./js/drpy2.min.js",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
@@ -1062,7 +1062,7 @@
       "key": "虎牙直播js",
       "name": "虎牙🐯直播",
       "type": 3,
-      "api": "./drpy2.min.js",
+      "api": "./js/drpy2.min.js",
       "ext": "https://agit.ai/fantaiying/fty/raw/branch/master/ext/huyazhibo.js",
       "style": {
         "type": "rect",
@@ -1076,7 +1076,7 @@
       "key": "斗鱼js",
       "name": "斗鱼🐟直播",
       "type": 3,
-      "api": "./drpy2.min.js",
+      "api": "./js/drpy2.min.js",
       "ext": "https://agit.ai/fantaiying/dr_py/raw/branch/main/js/斗鱼直播.js",
       "style": {
         "type": "rect",
@@ -1113,7 +1113,7 @@
       "api": "csp_HunHePan",
       "jar": "./PG.jar",
       "timeout": 60,
-      "ext": "./PG推送.json"
+      "ext": "./json/PG推送.json"
     },
     {
       "key": "csp_XYQHiker_影搜",
@@ -1152,7 +1152,7 @@
       "api": "csp_MiaoSou",
       "jar": "./PG.jar",
       "timeout": 60,
-      "ext": "./PG推送.json"
+      "ext": "./json/PG推送.json"
     },
     {
       "key": "csp_XYQHikerAL_77zys",
