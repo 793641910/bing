@@ -1,5 +1,5 @@
 {
-  "spider": "./binge.jar",
+  "spider": "./jar/binge.jar",
   "wallpaper": "http://www.kf666888.cn/api/tvbox/img",
   "sites": [
     {
@@ -18,7 +18,7 @@
       "name": "🌥️┃配置中心",
       "type": 3,
       "api": "csp_Config",
-      "jar": "./dongchenok.jar",
+      "jar": "./jar/bingege.jar",
       "searchable": 0,
       "changeable": 0,
       "style": {
@@ -45,7 +45,7 @@
       "name": "玩偶🔥弹幕4K",
       "type": 3,
       "api": "csp_Wogg",
-      "jar": "./dongchenok.jar",
+      "jar": "./jar/bingege.jar",
       "searchable": 1,
       "filterable": 1,
       "changeable": 1,
@@ -72,7 +72,7 @@
       "name": "多多🚛弹幕4K",
       "type": 3,
       "api": "csp_Wobg",
-      "jar": "./dongchenok.jar",
+      "jar": "./jar/bingege.jar",
       "quickSearch": 1,
       "changeable": 1,
       "filterable": 1,
@@ -133,7 +133,7 @@
       "name": "土豆💋弹幕4K",
       "type": 3,
       "api": "csp_Wobg",
-      "jar": "./dongchenok.jar",
+      "jar": "./jar/bingege.jar",
       "searchable": 1,
       "filterable": 1,
       "changeable": 1,
@@ -922,7 +922,7 @@
       "name": "TVB📭云播",
       "type": 3,
       "api": "csp_XBPQ",
-      "jar": "./HeChengChaXiu.jar",
+      "jar": "./jar/HeChengChaXiu.jar",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
