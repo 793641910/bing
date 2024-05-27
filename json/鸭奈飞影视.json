@@ -46,7 +46,7 @@
     "演员详情": ".module-info-content&&.module-info-item,2&&Text",
     "简介详情": "'🌹关注企鹅号“别叫偶兵哥哥”，获取最新接口，加qq防迷失！兵哥提醒您以下为简介🌹：'+.module-info-content&&.module-info-item&&Text",
     "线路列表数组规则": ".module-tab-items-box&&.module-tab-item",
-    "线路标题": "Text",
+    "线路标题": "💘兵哥视界接口💘+Text",
     "播放列表数组规则": "body&&.module-play-list-content",
     "选集列表数组规则": "a",
     "选集标题链接是否Jsoup写法": "是",
