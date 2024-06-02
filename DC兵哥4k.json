@@ -97,22 +97,16 @@
       "filterable": 1,
       "ext": "./json/alisusu.json"
     },
-    {
+        {
       "key": "玩偶哥哥",
       "name": "饭偶⛅扫码4K",
       "type": 3,
       "api": "csp_WoGG",
-      "jar": "./jar/fanzx.txt",
+      "jar": "./jar/fan-6.txt",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": {
-        "aliToken": "tvfan/token.txt",
-        "quarkCookie": "tvfan/cookie.txt",
-        "from": "4k|auto|fhd",
-        "siteUrl": "https://www.wogg.net/",
-        "danMu": "弹"
-      }
+      "ext": "http://127.0.0.1:9978/file/tvfan/token.txt+4k|auto|fhd$$$https://www.wogg.xyz/$$$弹"
     },
     {
       "key": "csp_XYQHikerAL_土豆",
