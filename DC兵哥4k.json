@@ -1107,21 +1107,6 @@
       "changeable": 0
     },
     {
-      "key": "盘Se",
-      "name": "盘Se🚌弹幕",
-      "type": 3,
-      "api": "csp_PanSearch",
-      "jar": "./jar/bingezx.jar",
-      "searchable": 1,
-      "filterable": 0,
-      "changeable": 0,
-      "ext": {
-        "token": "file://TV/ali_token.txt",
-        "danmu": true
-      },
-      "timeout": 15
-    },
-    {
       "key": "csp_XYQHikerAL_云盘资源",
       "name": "云盘🚲资源",
       "type": 3,
