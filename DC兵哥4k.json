@@ -789,23 +789,13 @@
     },
     {
       "key": "nangua",
-      "name": "冬瓜🎃影视",
+      "name": "南瓜🎃影视",
       "type": 3,
       "playerType": "2",
       "api": "./js/drpy2.min.js",
       "ext": "./js/nangua.js"
     },
-{
-      "key": "南瓜影视",
-      "name": "南瓜🎃影视",
-      "type": 3,
-      "api": "csp_WexNgys",
-      "jar": "./jar/nangua.jar",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0
-        },
-    {
+   {
       "key": "低端影视",
       "name": "低端⛄影视",
       "type": 3,
