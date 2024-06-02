@@ -4,13 +4,14 @@
   "sites": [
     {
       "key": "豆瓣",
-      "name": "东辰影视┃加qq群757506243防失联，微信公众号：东方精英汇",
+      "name": "🌹兵哥4K专线💘整理于6月1日💋加QQ防失联🍎获取最新接口🇨🇳",
       "type": 3,
-      "api": "csp_DouDou",
-      "jar": "https://fs-im-kefu.7moor-fs1.com/29397395/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1705832521307/fan.txt",
+      "api": "./js/min.js",
+      "jar": "./jar/worong.txt",
       "searchable": 0,
       "quickSearch": 0,
-      "filterable": 0
+      "filterable": 0,
+      "ext": "./js/douban.js"
     },
     {
       "key": "配置中心ok",
