@@ -979,12 +979,12 @@
       "key": "NT动漫",
       "name": "NT🎀动漫",
       "type": 3,
-      "api": "https://gitee.com/dongchenys/liu/raw/master/js/drpy2.min.js",
+      "api": "./js/drpy2.min.js",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
       "changeable": 1,
-      "ext": "https://pan.shangui.cc/f/5dRbSA/ntdm.js"
+      "ext": "./js/ntdm.js"
     },
     {
       "key": "路漫漫动漫",
