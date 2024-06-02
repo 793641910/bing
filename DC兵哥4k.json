@@ -283,44 +283,6 @@
       "ext": "./json/hanju.json"
     },
     {
-      "key": "明日影视",
-      "name": "明日☀影视",
-      "type": 3,
-      "api": "csp_WexMingriys",
-      "jar": "./jar/sp.jar",
-      "searchable": 1,
-      "changeable": 1
-    },
-{
-      "key": "美柏影视",
-      "name": "美柏🏝蓝光",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "searchable": 1,
-      "changeable": 1,
-      "ext": "./json/meibai.json"
-    },
-{
-      "key": "可达影视",
-      "name": "可达🐤蓝光",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "./json/kedays.json"
-    },
-{
-      "key": "饭团影视",
-      "name": "饭团🍚影视",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "./json/fantuan.json"
-    },
-    {
       "key": "csp_SNzy",
       "name": "索尼🐉蓝光",
       "type": 1,
