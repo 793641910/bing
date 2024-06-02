@@ -525,6 +525,26 @@
       "ext": "./js/nangua.js"
     },
     {
+      "key": "茶狐影视",
+      "name": "茶狐🍹影视",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "./json/jqqys.json"
+    },
+{
+      "key": "剧圈影视",
+      "name": "剧圈🔥蓝光",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "./json/jqqzx.json"
+    },
+    {
       "key": "AList",
       "name": "网盘📕雅雅",
       "type": 3,
