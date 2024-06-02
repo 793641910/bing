@@ -852,15 +852,6 @@
       "quickSearch": 1,
       "filterable": 1
       },
-    {
-      "key":"csp_Xunlei8",
-      "name":"迅雷吧🧲磁力",
-      "type":3,
-      "api":"csp_Xunlei8",
-      "searchable":1,
-      "quickSearch":1,
-      "filterable":1
-      },
      {
       "key": "csp_Yj1211",
       "name": "网红📱直播",
