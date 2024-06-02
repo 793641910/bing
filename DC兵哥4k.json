@@ -1347,8 +1347,8 @@
       "timeout": 15
     },
     {
-      "key": "ext_live_protocol",
-      "name": "免费接口，自娱制作",
+      "key": "excited",
+      "name": "兵哥出品，必属精品",
       "type": 3,
       "api": "csp_DuoX",
       "searchable": 1,
@@ -1356,7 +1356,7 @@
       "changeable": 1
     },
     {
-      "key": "cc",
+      "key": "bh",
       "name": "请勿相信视频中任何广告",
       "type": 3,
       "api": "csp_XPath",
@@ -1364,8 +1364,8 @@
       "quickSearch": 0
     },
     {
-      "key": "hl",
-      "name": "06.03接口仅测试使用",
+      "key": "pk",
+      "name": "06.04整理",
       "type": 3,
       "api": "csp_XPath",
       "searchable": 0,
