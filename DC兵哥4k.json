@@ -1114,7 +1114,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://pan.shangui.cc/f/5zm2cA/yunpan.json"
+      "ext": "./json/yunpan.json"
     },
     {
       "key": "csp_Yisou",
