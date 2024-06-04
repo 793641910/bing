@@ -11,7 +11,7 @@ var rule = {
 	// url:'/type/fyclass-fypage.html',
 	url:'/show/fyclassfyfilter.html',
 	// url:'/show_fyclassfyfilter.html',
-	tab_rename:{'BD播放':'东辰影视'}, 
+	tab_rename:{'BD播放':'🌺兵哥视界接口🌺'}, 
                 filterable:1,//是否启用分类筛选,
 	filter_url:'-{{fl.area}}-{{fl.by}}--{{fl.lang}}----fypage---{{fl.year}}',
 	filter: {
