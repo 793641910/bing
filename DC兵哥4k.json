@@ -329,7 +329,7 @@
       "key": "飞刀",
       "name": "飞刀🏂蓝光",
       "type": 1,
-      "api": " http://www.feidaozy.com/api.php/provide/vod?",
+      "api": "http://iycms.feidaozy.com/api.php/provide/vod",
         "searchable": 1,
       "changeable": 1,
         "categories": [
