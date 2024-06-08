@@ -1,5 +1,5 @@
 {
-  "spider": "./jar/binge.jar",
+  "spider": "./jar/binge.jar;md5;2b8839cfc91947439503fb55325e758f",
   "wallpaper": "https://8698.kstore.space/kjhbn.webp",
   "sites": [
     {
