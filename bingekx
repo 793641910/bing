@@ -11,7 +11,7 @@
             "searchable": 0,
             "quickSearch": 0,
             "filterable": 0,
-            "jar": "./lib/辉少.jpg"
+            "jar": "./lib/辉少.jar"
         },
         {
             "key": "csp_LocalFile",
