@@ -43,7 +43,7 @@ class Spider(Spider):
         self.session.headers.update(self.headers)
         self.themes = [("2", "角色剧情"), ("3", "中文字幕"), ("4", "制服诱惑"), ("5", "直接开啪"), ("6", "丝袜美腿"), ("7", "捆绑调教"), ("8", "多P群交"), ("10", "羞辱强暴"), ("11", "无码高清"), ("14", "乱伦伦理"), ("15", "人妻诱惑"), ("17", "网黄精选")]
         self.theme_sorts = [{"n": "近期最佳", "v": "hot"}, {"n": "今日更新", "v": "update"}, {"n": "最多观看", "v": "watch"}, {"n": "最高收藏", "v": "favorite"}]
-        self.categories = [{"type_id": "/new", "type_name": "最新更新"}, {"type_id": "/theme/detail/3/update", "type_name": "中文字幕"}, {"type_id": "/theme/detail/11/hot", "type_name": "无码高清"}, {"type_id": "/theme", "type_name": "专题合集"}, {"type_id": "/actress/hot", "type_name": "热门女优"}]
+        self.categories = [{"type_id": "/new", "type_name": "最新更新"}, {"type_id": "/actress/hot", "type_name": "热门女优"}, {"type_id": "/theme/detail/3/update", "type_name": "中文字幕"}, {"type_id": "/theme/detail/11/hot", "type_name": "无码高清"}, {"type_id": "/theme", "type_name": "专题合集"}]
         self.filters = {
             "/theme/detail/3/update": [{"key": "sort", "name": "排序", "value": self.theme_sorts}],
             "/theme/detail/11/hot": [{"key": "sort", "name": "排序", "value": self.theme_sorts}],
